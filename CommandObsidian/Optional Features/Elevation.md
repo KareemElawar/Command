@@ -1,0 +1,1 @@
+Place a blank tile on a board piece without a troop on it. That is considered 1 level of elevation if there is 1 elevation tile piece. A troop moving can't go to a new tile that has a different elevation of 2 or more. [[Archers]] can't shoot enemies that are past a higher elevation.

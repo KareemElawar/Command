@@ -1,0 +1,1 @@
+Allows you to place a piece stated on the card on your side of the board 

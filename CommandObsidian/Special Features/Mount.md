@@ -1,0 +1,1 @@
+Can have other ally pieces be placed on top of this piece that give them extra movement, but now is 1 unit and sacrifices the cavalry piece. 

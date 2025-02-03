@@ -1,0 +1,1 @@
+Place the attacking piece on top of the target. The target can only attack the attacking piece and if they try to leave the space they face penalties. 
